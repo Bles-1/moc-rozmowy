@@ -255,7 +255,7 @@ body {
 .author {
     color: var(--text-main);
     text-decoration: underline dotted;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 .about p {
@@ -456,5 +456,9 @@ body {
 
     .quote-author {
         font-size: 75%;
+    }
+
+    .footer {
+        justify-content: center;
     }
 }
